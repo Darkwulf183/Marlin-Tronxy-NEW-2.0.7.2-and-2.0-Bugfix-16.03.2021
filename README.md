@@ -1,3 +1,4 @@
+# This repository will neither continue to be checked for errors nor further developed. The repository was quasi the test for the currently available bug-free repository.
 # Marlin-Tronxy-NEW-2.0.7.2-and-2.0-Bugfix-16.03.2021
 
 This repository is an extension to the Marlin fork for Tronxy X5SA: https://github.com/rhapsodyv/Marlin/tree/tronxy-full
